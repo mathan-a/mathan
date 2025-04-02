@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mathan Kumar - Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        .container { max-width: 900px; margin: auto; background: white; padding: 20px; }
+        header { background: #333; color: white; padding: 10px 0; text-align: center; }
+        h1, h2, h3 { color: #333; }
+        .section { margin-bottom: 20px; }
+        ul { list-style-type: none; padding: 0; }
+        ul li { background: #ddd; margin: 5px 0; padding: 10px; }
+        a { color: #007BFF; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mathan Kumar A</h1>
+        <p>Software Engineer | Enthusiastic Learner</p>
+    </header>
+    <div class="container">
+        <section class="section">
+            <h2>Contact Information</h2>
+            <p>Email: <a href="mailto:ajimathan.0123@gmail.com">ajimathan.0123@gmail.com</a></p>
+            <p>Phone: 8838161217</p>
+            <p>Location: Tirunelveli</p>
+            <p>GitHub: <a href="https://github.com/mathan-a">github.com/mathan-a</a></p>
+            <p>LeetCode: <a href="https://leetcode.com/u/mathankumar21">leetcode.com/u/mathankumar21</a></p>
+        </section>
+        <section class="section">
+            <h2>Education</h2>
+            <p><strong>Kongu Engineering College - Perundurai</strong></p>
+            <p>Bachelor of Engineering in Computer Science, Class of 2025</p>
+            <p>CGPA: 7.09 (till 7th semester)</p>
+        </section>
+        <section class="section">
+            <h2>Projects</h2>
+            <ul>
+                <li><strong>Skin Cancer Classification using Federated Learning and Explainable AI</strong></li>
+                <li><strong>Vehicle Management System</strong> - A full-stack website for managing college bus maintenance.</li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Java</li>
+                <li>HTML & CSS</li>
+                <li>MongoDB</li>
+                <li>JavaScript</li>
+                <li>Data Structures</li>
+                <li>DBMS</li>
+                <li>Computer Networks</li>
+            </ul>
+        </section>
+        <section class="section">
+            <h2>Extracurricular Activities</h2>
+            <ul>
+                <li>2nd Prize - Solo Dance at Enthusia 2k24 & 2k25</li>
+                <li>Additional Secretary of Cultural Club</li>
+                <li>Executive Member of Rotaract Club</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
